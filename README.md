@@ -37,3 +37,5 @@ NE Bird — предобученная модель детекции птиц, �
 5. *Состав репозитория*
    * [Папка с изображения для тестирования модели](https://github.com/iv-Alena/Project-practice/tree/main/photo)
    * [Оформленный ноутбук](https://github.com/iv-Alena/Project-practice/blob/main/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D0%95_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb)
+  
+[Ссылка на ноутбук в Google colab](https://colab.research.google.com/drive/1L4wAQ3g_aoIsfIj5h2mw4scfsA2wwRx8?authuser=1#scrollTo=1T9AON7qHVcI)
